@@ -1,4 +1,5 @@
 # Web-Marketing-Analysis-SQL-
+These were the questions that were used to shape this web marketing task, please also see the sql code i wrote to answer each of these questions. I have also made a power BI dashboard to provide a summary of my findings. 
 
 1) Write a sql query that tells us which article had the most page impressions, and what the bot percentage is for each.
 
